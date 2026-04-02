@@ -1,0 +1,80 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 18249,
+      "minecraft:walk_one_cm": 86885,
+      "minecraft:leave_game": 6,
+      "minecraft:walk_under_water_one_cm": 32525,
+      "minecraft:mob_kills": 11,
+      "minecraft:damage_taken": 1750,
+      "minecraft:play_time": 127549,
+      "minecraft:damage_dealt": 235,
+      "minecraft:jump": 395,
+      "minecraft:time_since_death": 18244,
+      "minecraft:drop": 221,
+      "minecraft:sprint_one_cm": 65515,
+      "minecraft:fall_one_cm": 638,
+      "minecraft:total_world_time": 127549,
+      "minecraft:fly_one_cm": 527714,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:walk_on_water_one_cm": 7336,
+      "minecraft:crouch_one_cm": 3728,
+      "minecraft:sneak_time": 2398,
+      "minecraft:deaths": 9
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:used": {
+      "minecraft:diamond_block": 16,
+      "minecraft:spruce_fence": 15,
+      "minecraft:repeater": 1,
+      "minecraft:glow_item_frame": 1,
+      "minecraft:lever": 8,
+      "minecraft:white_concrete": 79,
+      "minecraft:oak_button": 1,
+      "minecraft:wind_charge": 13,
+      "minecraft:netherite_sword": 1,
+      "minecraft:chain_command_block": 6,
+      "minecraft:deepslate": 4,
+      "minecraft:birch_button": 1,
+      "minecraft:oak_stairs": 26,
+      "minecraft:comparator": 1,
+      "minecraft:repeating_command_block": 11,
+      "minecraft:villager_spawn_egg": 12,
+      "minecraft:diamond_pickaxe": 3,
+      "minecraft:anvil": 1,
+      "minecraft:zombie_spawn_egg": 1,
+      "minecraft:command_block": 14,
+      "minecraft:egg": 237,
+      "minecraft:gold_block": 4
+    },
+    "minecraft:dropped": {
+      "minecraft:diamond_block": 1,
+      "minecraft:gold_block": 2,
+      "minecraft:deepslate": 2,
+      "minecraft:netherite_sword": 1,
+      "minecraft:wind_charge": 215
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 5,
+      "minecraft:creeper": 1
+    },
+    "minecraft:mined": {
+      "minecraft:gold_block": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:wind_charge": 3,
+      "minecraft:tuff": 8,
+      "minecraft:glow_item_frame": 1,
+      "minecraft:cobblestone": 2,
+      "minecraft:white_concrete": 7,
+      "minecraft:lever": 7,
+      "minecraft:birch_button": 1,
+      "minecraft:gold_block": 3,
+      "minecraft:repeater": 1,
+      "minecraft:cobbled_deepslate": 32
+    }
+  },
+  "DataVersion": 4671
+}

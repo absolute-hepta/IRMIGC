@@ -1,0 +1,84 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:mannequin": 2,
+      "minecraft:iron_golem": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:yellow_concrete": 1,
+      "minecraft:diamond_sword": 9,
+      "minecraft:dirt": 10,
+      "minecraft:poppy": 2,
+      "minecraft:white_concrete": 6,
+      "minecraft:trident": 1,
+      "minecraft:black_concrete": 4,
+      "minecraft:quartz_stairs": 5,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:netherite_boots": 1,
+      "minecraft:iron_ingot": 7,
+      "minecraft:netherite_hoe": 1,
+      "minecraft:oak_sign": 1,
+      "minecraft:netherite_leggings": 1,
+      "minecraft:chiseled_quartz_block": 1,
+      "minecraft:netherite_helmet": 1
+    },
+    "minecraft:mined": {
+      "minecraft:fire": 11,
+      "minecraft:leaf_litter": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:quartz_stairs": 2,
+      "minecraft:white_concrete": 3,
+      "minecraft:trident": 1,
+      "minecraft:diamond_sword": 9
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 5863,
+      "minecraft:time_since_rest": 159453,
+      "minecraft:walk_one_cm": 169890,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 157,
+      "minecraft:mob_kills": 10,
+      "minecraft:damage_taken": 210,
+      "minecraft:play_time": 162684,
+      "minecraft:damage_dealt": 6045,
+      "minecraft:jump": 364,
+      "minecraft:time_since_death": 159448,
+      "minecraft:drop": 12,
+      "minecraft:sprint_one_cm": 38602,
+      "minecraft:fall_one_cm": 10515,
+      "minecraft:total_world_time": 162684,
+      "minecraft:fly_one_cm": 252009,
+      "minecraft:interact_with_anvil": 8,
+      "minecraft:walk_on_water_one_cm": 147,
+      "minecraft:crouch_one_cm": 4843,
+      "minecraft:sneak_time": 3277,
+      "minecraft:climb_one_cm": 186,
+      "minecraft:deaths": 1,
+      "minecraft:player_kills": 2
+    },
+    "minecraft:used": {
+      "minecraft:yellow_concrete": 16,
+      "minecraft:glow_item_frame": 2,
+      "minecraft:quartz_slab": 3,
+      "minecraft:trident": 137,
+      "minecraft:white_concrete": 5,
+      "minecraft:redstone_block": 1,
+      "minecraft:deepslate": 21,
+      "minecraft:diamond_sword": 51,
+      "minecraft:black_concrete": 15,
+      "minecraft:repeating_command_block": 68,
+      "minecraft:barrier": 5,
+      "minecraft:oak_sign": 5,
+      "minecraft:glass": 49,
+      "minecraft:anvil": 1,
+      "minecraft:command_block": 15,
+      "minecraft:quartz_stairs": 2,
+      "minecraft:netherite_hoe": 15,
+      "minecraft:dirt": 8,
+      "minecraft:pointed_dripstone": 7,
+      "minecraft:bow": 2
+    }
+  },
+  "DataVersion": 4671
+}

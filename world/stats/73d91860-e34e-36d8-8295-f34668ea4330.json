@@ -1,0 +1,77 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone_axe": 54,
+      "minecraft:rotten_flesh": 1,
+      "minecraft:stone_sword": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_pickaxe": 26,
+      "minecraft:stone_pickaxe": 9
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1,
+      "minecraft:cow": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stick": 3,
+      "minecraft:cobblestone": 26,
+      "minecraft:golden_helmet": 1,
+      "minecraft:golden_chestplate": 1,
+      "minecraft:golden_boots": 1,
+      "minecraft:leather": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:raw_copper": 31,
+      "minecraft:oak_sapling": 10,
+      "minecraft:beef": 6,
+      "minecraft:rotten_flesh": 2,
+      "minecraft:apple": 2,
+      "minecraft:leaf_litter": 20,
+      "minecraft:oak_log": 48,
+      "minecraft:wooden_axe": 1,
+      "minecraft:golden_leggings": 1,
+      "minecraft:birch_log": 5,
+      "minecraft:acacia_planks": 22
+    },
+    "minecraft:crafted": {
+      "minecraft:furnace": 2,
+      "minecraft:stone_sword": 1,
+      "minecraft:stick": 12,
+      "minecraft:stone_axe": 1,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 28051,
+      "minecraft:walk_one_cm": 16448,
+      "minecraft:leave_game": 4,
+      "minecraft:mob_kills": 4,
+      "minecraft:damage_taken": 49,
+      "minecraft:play_time": 28051,
+      "minecraft:damage_dealt": 490,
+      "minecraft:jump": 124,
+      "minecraft:time_since_death": 28051,
+      "minecraft:sprint_one_cm": 28892,
+      "minecraft:fall_one_cm": 1444,
+      "minecraft:total_world_time": 28051,
+      "minecraft:fly_one_cm": 9664,
+      "minecraft:walk_on_water_one_cm": 42,
+      "minecraft:crouch_one_cm": 920,
+      "minecraft:sneak_time": 358,
+      "minecraft:climb_one_cm": 88
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 4,
+      "minecraft:vine": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:birch_log": 5,
+      "minecraft:leaf_litter": 3,
+      "minecraft:oak_log": 48,
+      "minecraft:grass_block": 1,
+      "minecraft:copper_ore": 9,
+      "minecraft:stone": 26
+    }
+  },
+  "DataVersion": 4671
+}

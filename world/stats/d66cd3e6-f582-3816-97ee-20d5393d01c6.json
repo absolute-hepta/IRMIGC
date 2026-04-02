@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone_axe": 1,
+      "minecraft:leaf_litter": 1,
+      "minecraft:wooden_axe": 2,
+      "minecraft:crafting_table": 3,
+      "minecraft:apple": 1,
+      "minecraft:wooden_spear": 4,
+      "minecraft:wooden_pickaxe": 3,
+      "minecraft:stone_pickaxe": 22,
+      "minecraft:dirt": 16
+    },
+    "minecraft:picked_up": {
+      "minecraft:apple": 1,
+      "minecraft:leaf_litter": 37,
+      "minecraft:dirt": 18,
+      "minecraft:oak_log": 11,
+      "minecraft:cobblestone": 25,
+      "minecraft:crafting_table": 3
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 6191,
+      "minecraft:walk_one_cm": 8962,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 50,
+      "minecraft:damage_dealt": 50,
+      "minecraft:play_time": 6191,
+      "minecraft:jump": 40,
+      "minecraft:time_since_death": 6191,
+      "minecraft:sprint_one_cm": 8705,
+      "minecraft:fall_one_cm": 2075,
+      "minecraft:total_world_time": 6191,
+      "minecraft:fly_one_cm": 5197,
+      "minecraft:sneak_time": 517
+    },
+    "minecraft:crafted": {
+      "minecraft:furnace": 2,
+      "minecraft:stick": 16,
+      "minecraft:stone_sword": 1,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_spear": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 44,
+      "minecraft:wooden_sword": 1,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_spear": 1
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 4,
+      "minecraft:dirt": 6,
+      "minecraft:crafting_table": 3,
+      "minecraft:leaf_litter": 3,
+      "minecraft:oak_log": 10,
+      "minecraft:grass_block": 2,
+      "minecraft:stone": 25
+    }
+  },
+  "DataVersion": 4671
+}

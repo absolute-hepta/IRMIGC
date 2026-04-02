@@ -1,3 +1,8 @@
 java -Xms12G -Xmx14G -jar paper-1.21.11-127.jar nogui
-
 ip-actual: park-cached.gl.joinmc.link
+
+git add .
+git commit -m "server listo"
+git push
+
+si falla: git push --set-upstream origin codespace-opulent-guide-r4jv6q49rgxpf5w5q
